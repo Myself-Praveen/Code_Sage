@@ -27,7 +27,9 @@ CodeSage is a local-first developer tool that lets you ask natural language ques
 
 ## Demo
 
-![CodeSage in action](demo.gif)
+<a href="https://www.youtube.com/watch?v=VU2RdymCOhA">
+  <img src="https://img.youtube.com/vi/VU2RdymCOhA/maxresdefault.jpg" alt="CodeSage Demo" width="100%"/>
+</a>
 
 ---
 
